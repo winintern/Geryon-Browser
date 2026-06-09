@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2B-lightgrey)](https://microsoft.com)
 [![Release](https://img.shields.io/badge/Release-v1.0-orange)](../../releases)
 [![Download](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/твой_логин/geryon/releases/download/v1.0/GeryonSetup.exe)
-
+[![Демонстрация Geryon](https://img.youtube.com/vi/qBPkmMbexqg/0.jpg)](https://youtu.be/qBPkmMbexqg)
 # Geryon Browser
 
 **Geryon** – приватный браузер на движке Chromium (QtWebEngine) с упором на безопасность и удобство.  
