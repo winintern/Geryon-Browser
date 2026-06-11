@@ -2,17 +2,22 @@
 [![PySide6](https://img.shields.io/badge/PySide6-6.11%2B-green?logo=qt)](https://doc.qt.io/qtforpython-6/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2B-lightgrey)](https://microsoft.com)
-[![Release](https://img.shields.io/badge/Release-v1.0-orange)](../../releases)
-[![Download](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/твой_логин/geryon/releases/download/v1.0/GeryonSetup.exe)
-[![Демонстрация Geryon](https://img.youtube.com/vi/qBPkmMbexqg/0.jpg)](https://youtu.be/qBPkmMbexqg)
+[![Download](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/winintern/Geryon-Browser/releases/download/1.2/GeryonSetup.exe)
+[![Watch the video](https://img.shields.io/badge/YouTube-Видео-red?logo=youtube)](https://youtu.be/ptR8sx39csM)
 # Geryon Browser
 
 **Geryon** – приватный браузер на движке Chromium (QtWebEngine) с упором на безопасность и удобство.  
 Закладки, история, быстрые ссылки, тёмная тема, режим «Только текст», менеджер загрузок с прогрессом и паника (Ctrl+Shift+X).
 
+## ⚠️ Важное замечание
+
+**Добавление своих поисковых систем в текущей версии работает нестабильно.**  
+Пожалуйста, не пытайтесь добавлять свои поисковые системы – они могут не появиться в меню.  
+Вместо этого используйте **закладки** (Ctrl+D) – они работают отлично и позволяют быстро открывать любые сайты.
+
 ## 🚀 Установка
 
-1. Скачай установщик по [этой ссылке](https://github.com/winintern/Geryon-Browser/releases/download/v.1.0/GeryonSetup.exe).
+1. Скачай установщик по [этой ссылке](https://github.com/winintern/Geryon-Browser/releases/download/1.2/GeryonSetup.exe).
 2. Запусти установщик (требуются права администратора).
 3. Выбери компоненты (ярлыки на рабочем столе/в меню Пуск) и дополнительные задачи.
 4. После установки запусти Geryon из меню Пуск или с рабочего стола.
@@ -25,11 +30,12 @@
 - **История** посещений (меню «История» – показать/очистить).
 - **Быстрые ссылки** (Speed Dial) на стартовой вкладке.
 - **Режим «Только текст»** (отключает загрузку изображений, ускоряет на слабых ПК).
-- **Тёмная тема интерфейса** (меню «Вид»).
+- **Тёмная тема** интерфейса (меню «Вид»).
 - **Режим «Читалка»** (упрощает страницу до текста).
 - **Менеджер загрузок** (Ctrl+J) – прогресс, отмена, открытие папки, история загрузок.
 - **Паника** (Ctrl+Shift+X) – очищает текущую сессию и кэш.
-- **Приватность**: все данные (история, куки, кэш) хранятся на диске, но вы можете очистить их в любой момент.
+- **Настройки** – тёмная тема, режим «Только текст», выбор поисковой системы, поведение стартовой страницы и многое другое.
+- **Приватность:** все данные (история, куки, кэш) хранятся на диске, но вы можете очистить их в любой момент.
 
 ## ⚙️ Системные требования
 
@@ -56,8 +62,8 @@
 
 ## 🧾 Лицензия
 
-MIT License. Исходный код доступен на GitHub.
+MIT License. Исходный код доступен на [GitHub](https://github.com/winintern/Geryon-Browser).
 
 ---
 
-Разработано [winitern](https://github.com/winitern). 🚀
+Разработано [winitern](https://github.com/winintern). 🚀
