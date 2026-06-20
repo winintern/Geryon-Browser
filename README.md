@@ -1,11 +1,6 @@
-   ________                    
-  /  _____/  _____ _____ ___.__  
- /   \  ___ / ___ \\____ <   |  | 
- \    \_\  / /_/  >  |_> >___  | 
-  \______  \___  /|   __// ____| 
-         \/_____/ |__|   \/      
-        
-          Geryon Browser
+
+
+Geryon Browser
 🦅 Приватный, лёгкий браузер на движке Chromium (QtWebEngine)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/winintern/Geryon-Browser/blob/main/LICENSE)
