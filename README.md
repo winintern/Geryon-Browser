@@ -7,11 +7,10 @@
         
           Geryon Browser
 🦅 Приватный, лёгкий браузер на движке Chromium (QtWebEngine)
-
-https://img.shields.io/badge/Python-3.12+-blue?logo=python
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/github/v/release/winintern/Geryon-Browser?include_prereleases
-https://img.shields.io/github/downloads/winintern/Geryon-Browser/total
+[![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/winintern/Geryon-Browser/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/winintern/Geryon-Browser)](https://github.com/winintern/Geryon-Browser/releases)
+[![Downloads](https://img.shields.io/github/downloads/winintern/Geryon-Browser/total)](https://github.com/winintern/Geryon-Browser/releases)wser/total
 📖 Описание
 Geryon — это браузер, созданный для тех, кто ценит приватность и контроль над своими данными. Он построен на базе движка Chromium через QtWebEngine, написан на Python с использованием PySide6. В отличие от массовых браузеров, Geryon не содержит встроенной телеметрии, рекламы и слежки. Все данные хранятся локально, а профили можно экспортировать/импортировать.
 
